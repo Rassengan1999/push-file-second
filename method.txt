@@ -14,5 +14,5 @@ Cách 2: Tạo project local và đẩy lên github
 	git status
 	git add .
  	git commit -m "your message"
-	git remote add origin https://.....
+	git remote add origin https://github.com/Rassengan1999/push-file-second
 	git push origin master 
